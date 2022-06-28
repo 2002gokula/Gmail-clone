@@ -1,0 +1,31 @@
+.addicon {
+ color: gray;
+ flex: 0.3;
+ max-width: 300px;
+ padding-right: 20px;
+}
+
+.sidebar_compose {
+ margin-top: 15px !important;
+ margin-left: 10px !important;
+ margin-bottom: 15px !important;
+ text-transform: capitalize !important;
+
+ padding: 15px !important;
+ border-radius: 30px !important;
+ box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.302),
+  0 1px 3px 1px rgba(60, 64, 67, 0.149) !important;
+ font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+ font-size: 14px;
+ background-color: #fff;
+ font-weight: 500;
+ height: 48px;
+ width: 144.67px;
+ color: #3c4043;
+
+}
+
+.sidebar_footer {
+ display: flex;
+ justify-content: center;
+}
